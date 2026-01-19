@@ -194,10 +194,6 @@ Add OpenAI & Pinecone credentials
 
 Use Production Webhook URL
 
-
-🌍 Portfolio Website
-https://akshitvats-portfolio.netlify.app
-
 ⚙️ n8n Backend
 https://akshu-automation.app.n8n.cloud
 
