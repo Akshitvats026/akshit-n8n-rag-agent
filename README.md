@@ -118,7 +118,8 @@ Sends response back to frontend
 ---
 
 # 📸 n8n Workflow Screenshot
-![n8n Workflow](assets/screenshots/n8n-workflow.png)
+![n8n Workflow](assets/screenshots/image-1.png)
+![n8n Workflow](assets/screenshots/image-2.png)
 
 ## 💬 Website Chatbot UI
 
@@ -135,7 +136,7 @@ Clean text formatting (markdown-safe)
 ---
 
 # 📸 Chatbot UI Screenshot
-![Chatbot UI](assets/screenshots/chatbot-ui.png)
+![Chatbot UI](assets/screenshots/image-3.png)
 
 ## 🔐 Knowledge Base (RAG)
 
