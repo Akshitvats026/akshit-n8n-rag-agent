@@ -52,6 +52,7 @@ User (Website Chatbot)
 ---
 
 🛠️ Tech Stack
+
 Backend & Automation
 
 n8n – Workflow automation & AI Agent
